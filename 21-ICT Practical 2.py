@@ -50,5 +50,3 @@ for item in lst:
 
 if count_str == count_int:
     print("good")
-# if count_str>count_int:
-# remove: type(int) from lst:
